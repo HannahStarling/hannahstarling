@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 hannahstarling
 
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/anehkayasha)
 
@@ -7,29 +7,12 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow)
 ![](https://www.codewars.com/users/HannahStarling/badges/micro)
 
-
-(https://github-readme-stats.vercel.app/api/top-langs/?username=hannahstarling)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannahstarling&count_private=true)
-
-
-
-
-<!--
-**HannahStarling/hannahstarling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-Here are some ideas to get you started:
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-https://techrocks.ru/2021/01/23/github-profile-readme-2/
--->
+##
+<div>
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hannahstarling&theme=merko&layout=compact">
+    <img align="left" height="120" style="margin-right: 25px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannahstarling&theme=merko&layout=compact"/>
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api?username=hannahstarling&show_icons=true&theme=merko">
+    <img  align="left" height="120" src="https://github-readme-stats.vercel.app/api?username=hannahstarling&show_icons=true&theme=merko" />
+  </a>
+</div>
