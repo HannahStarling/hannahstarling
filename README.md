@@ -8,6 +8,10 @@
 ![](https://www.codewars.com/users/HannahStarling/badges/micro)
 
 
+(https://github-readme-stats.vercel.app/api/top-langs/?username=hannahstarling)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannahstarling&count_private=true)
+
 
 
 
