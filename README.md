@@ -9,10 +9,10 @@
 
 ##
 <div>
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hannahstarling&theme=merko&layout=compact">
-    <img align="left" height="120" style="margin-right: 25px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannahstarling&theme=merko&layout=compact"/>
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hannahstarling&theme=radical&layout=compact">
+    <img align="left" height="120" style="margin-right: 25px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannahstarling&theme=radical&layout=compact"/>
   </a>
-  <a href="https://github-readme-stats.vercel.app/api?username=hannahstarling&show_icons=true&theme=merko">
-    <img  align="left" height="120" src="https://github-readme-stats.vercel.app/api?username=hannahstarling&show_icons=true&theme=merko" />
+  <a href="https://github-readme-stats.vercel.app/api?username=hannahstarling&show_icons=true&theme=radical">
+    <img  align="left" height="120" src="https://github-readme-stats.vercel.app/api?username=hannahstarling&show_icons=true&theme=radical" />
   </a>
 </div>
