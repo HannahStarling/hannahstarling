@@ -1,4 +1,4 @@
-### Hi there 👋 hannahstarling
+### Hi there 👋
 
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/anehkayasha)
 
