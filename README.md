@@ -16,6 +16,9 @@ I'm 27 y.o. Front-end dev from Moscow, Russia
 ![](https://img.shields.io/badge/Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Less-informational?style=flat&logo=Less&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/node.js-informational?style=flat&logo=node.js&logoColor=white&color=yellow)
+
 
 ![](https://img.shields.io/badge/BEM-informational?style=flat&logo=BEM&logoColor=white&color=green)
 ![](https://img.shields.io/badge/SPA-informational?style=flat&logo=React&logoColor=white&color=green)
