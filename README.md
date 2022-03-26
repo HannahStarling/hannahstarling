@@ -29,6 +29,8 @@ I'm 27 y.o. Front-end dev from Moscow, Russia
 ![](https://img.shields.io/badge/Кроссбраузерная_верстка-informational?style=flat&logo=CSS3&logoColor=white&color=green)
 
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=blue)
+![](https://img.shields.io/badge/AntDesign-informational?style=flat&logo=AntDesign&logoColor=white&color=blue)
+
 
 ![](https://www.codewars.com/users/HannahStarling/badges/micro)
 
