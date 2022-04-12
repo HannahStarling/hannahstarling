@@ -7,17 +7,20 @@ I'm 27 y.o. Front-end dev from Moscow, Russia
 
 ## 💼 Skills / stack
 
-![](https://img.shields.io/badge/React.js-informational?style=flat&logo=React&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/React.js-informational?style=flat&logo=React&logoColor=blue&color=yellow)
+![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=purple&color=yellow)
+![](https://img.shields.io/badge/Redux-saga-informational?style=flat&logo=Redux-saga&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=rose&color=yellow)
+![](https://img.shields.io/badge/Less-informational?style=flat&logo=Less&logoColor=blue&color=yellow)
+
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=orange&color=yellow)
+![](https://img.shields.io/badge/Webpack-informational?style=flat&logo=Webpack&logoColor=blue&color=yellow)
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Less-informational?style=flat&logo=Less&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/node.js-informational?style=flat&logo=node.js&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=green&color=yellow)
+![](https://img.shields.io/badge/node.js-informational?style=flat&logo=node.js&logoColor=green&color=yellow)
 
 
 ![](https://img.shields.io/badge/BEM-informational?style=flat&logo=BEM&logoColor=white&color=green)
@@ -31,6 +34,7 @@ I'm 27 y.o. Front-end dev from Moscow, Russia
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/AntDesign-informational?style=flat&logo=AntDesign&logoColor=white&color=blue)
 
+![](https://img.shields.io/badge/Leaflet-informational?style=flat&logo=Leaflet&logoColor=yellow&color=blue)
 
 ![](https://www.codewars.com/users/HannahStarling/badges/micro)
 
