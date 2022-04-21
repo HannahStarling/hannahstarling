@@ -2,8 +2,9 @@
 
 I'm 27 y.o. Front-end dev from Moscow, Russia
 
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/anehkayasha)
-[![Facebook Badge](https://img.shields.io/badge/facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=black)](https://www.facebook.com/anehkayasha/)
+
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile?style=for-the-badge&logo=CodePen&logoColor=white&color=black)](https://codepen.io/anehkayasha)
+[![Facebook Badge](https://img.shields.io/badge/facebook-Profile?style=for-the-badge&logo=facebook&logoColor=white&color=blue)](https://www.facebook.com/anehkayasha/)
 
 ## 💼 Skills / stack
 
