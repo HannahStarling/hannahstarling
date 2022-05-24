@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm 27 y.o. Front-end dev from Moscow, Russia
+I'm 27 y.o. Front-end dev
 
 
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile?style=for-the-badge&logo=CodePen&logoColor=white&color=black)](https://codepen.io/anehkayasha)
@@ -8,6 +8,7 @@ I'm 27 y.o. Front-end dev from Moscow, Russia
 
 ## 💼 Skills / stack
 
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=blue&color=yellow)
 ![](https://img.shields.io/badge/React.js-informational?style=flat&logo=React&logoColor=blue&color=yellow)
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=purple&color=yellow)
 ![](https://img.shields.io/badge/Redux-saga-informational?style=flat&logo=Redux-saga&logoColor=white&color=yellow)
@@ -36,6 +37,13 @@ I'm 27 y.o. Front-end dev from Moscow, Russia
 ![](https://img.shields.io/badge/AntDesign-informational?style=flat&logo=AntDesign&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Leaflet-informational?style=flat&logo=Leaflet&logoColor=yellow&color=blue)
+
+#### libraries
+
+![](https://img.shields.io/badge/abac-informational?style=flat&logo=abac&logoColor=black&color=white)
+![](https://img.shields.io/badge/axios-informational?style=flat&logo=axios&logoColor=black&color=white)
+![](https://img.shields.io/badge/Redux-toolkit-informational?style=flat&logo=Redux&logoColor=black&color=white)
+
 
 ![](https://www.codewars.com/users/HannahStarling/badges/micro)
 
