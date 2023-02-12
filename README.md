@@ -33,16 +33,20 @@ I'm 28 y.o. Front-end dev
 ![](https://img.shields.io/badge/Семантическая_верстка-informational?style=flat&logo=HTML5&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Кроссбраузерная_верстка-informational?style=flat&logo=CSS3&logoColor=white&color=green)
 
-![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/AntDesign-informational?style=flat&logo=AntDesign&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Leaflet-informational?style=flat&logo=Leaflet&logoColor=yellow&color=blue)
 
 #### libraries
 
+![](https://img.shields.io/badge/moment-informational?style=flat&logo=moment&logoColor=black&color=white)
 ![](https://img.shields.io/badge/abac-informational?style=flat&logo=abac&logoColor=black&color=white)
 ![](https://img.shields.io/badge/axios-informational?style=flat&logo=axios&logoColor=black&color=white)
 ![](https://img.shields.io/badge/Redux-toolkit-informational?style=flat&logo=Redux&logoColor=black&color=white)
+![](https://img.shields.io/badge/classnames-informational?style=flat&logo=classnames&logoColor=black&color=white)
+![](https://img.shields.io/badge/query-string-informational?style=flat&logo=query-string&logoColor=black&color=white)
+![](https://img.shields.io/badge/redux-saga-routines-informational?style=flat&logo=redux-saga-routines&logoColor=black&color=white)
 
 
 ![](https://www.codewars.com/users/HannahStarling/badges/micro)
