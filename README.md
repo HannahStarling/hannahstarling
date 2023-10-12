@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm 28 y.o. Front-end dev
+I'm 29y.o. Front-end dev
 
 
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile?style=for-the-badge&logo=CodePen&logoColor=white&color=black)](https://codepen.io/anehkayasha)
