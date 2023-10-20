@@ -32,6 +32,8 @@ I'm 29y.o. Front-end dev
 ![](https://img.shields.io/badge/Адаптивная_вёрстка-informational?style=flat&logo=CSS3&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Семантическая_верстка-informational?style=flat&logo=HTML5&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Кроссбраузерная_верстка-informational?style=flat&logo=CSS3&logoColor=white&color=green)
+![](https://img.shields.io/badge/REST-API-informational?style=flat&logo=REST&logoColor=white&color=green)
+
 
 ![](https://img.shields.io/badge/AntDesign-informational?style=flat&logo=AntDesign&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=blue)
