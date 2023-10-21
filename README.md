@@ -2,7 +2,7 @@
 
 I'm 29y.o. Front-end dev with 2 year experience
 
-## 💼 Languges
+## Languages
 
 Croatian, Rissian, English
 
