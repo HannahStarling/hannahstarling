@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-I'm 29y.o. Front-end dev
+I'm 29y.o. Front-end dev with 2 year experience
 
+## 💼 Languges
+
+Croatian, Rissian, English
 
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile?style=for-the-badge&logo=CodePen&logoColor=white&color=black)](https://codepen.io/anehkayasha)
 [![Facebook Badge](https://img.shields.io/badge/facebook-Profile?style=for-the-badge&logo=facebook&logoColor=white&color=blue)](https://www.facebook.com/anehkayasha/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile?style=for-the-badge&logo=LinkedIn&logoColor=white&color=blue)](https://www.linkedin.com/in/anna-tuban-a2bba4275/)
 
-## 💼 Skills / stack
+## 💼 Skills
 
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=blue&color=yellow)
 ![](https://img.shields.io/badge/React.js-informational?style=flat&logo=React&logoColor=blue&color=yellow)
@@ -18,11 +22,13 @@ I'm 29y.o. Front-end dev
 ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=rose&color=yellow)
 ![](https://img.shields.io/badge/Less-informational?style=flat&logo=Less&logoColor=blue&color=yellow)
 
+
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=orange&color=yellow)
 ![](https://img.shields.io/badge/Webpack-informational?style=flat&logo=Webpack&logoColor=blue&color=yellow)
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=green&color=yellow)
 ![](https://img.shields.io/badge/node.js-informational?style=flat&logo=node.js&logoColor=green&color=yellow)
+![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=Next.js&logoColor=green&color=yellow)
 
 
 ![](https://img.shields.io/badge/BEM-informational?style=flat&logo=BEM&logoColor=white&color=green)
