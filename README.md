@@ -43,6 +43,7 @@ Croatian, Rissian, English
 
 ![](https://img.shields.io/badge/AntDesign-informational?style=flat&logo=AntDesign&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=blue)
+![](https://img.shields.io/badge/chakra-ui-informational?style=flat&logo=chakra-ui&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Leaflet-informational?style=flat&logo=Leaflet&logoColor=yellow&color=blue)
 
@@ -55,6 +56,7 @@ Croatian, Rissian, English
 ![](https://img.shields.io/badge/classnames-informational?style=flat&logo=classnames&logoColor=black&color=white)
 ![](https://img.shields.io/badge/query-string-informational?style=flat&logo=query-string&logoColor=black&color=white)
 ![](https://img.shields.io/badge/redux-saga-routines-informational?style=flat&logo=redux-saga-routines&logoColor=black&color=white)
+![](https://img.shields.io/badge/&-more-informational?style=flat&logo=&more...&logoColor=black&color=white)
 
 
 ![](https://www.codewars.com/users/HannahStarling/badges/micro)
