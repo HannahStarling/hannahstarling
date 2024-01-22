@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm 29y.o. Front-end dev with 2 year experience
+I'm 29y.o. Front-end dev with 2+ year experience
 
 ## Languages
 
@@ -64,13 +64,16 @@ Croatian, Rissian, English
 
 
 ![](https://www.codewars.com/users/HannahStarling/badges/micro)
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
 
 ##
-<div>
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hannahstarling&theme=radical&layout=compact">
-    <img align="left" height="120" style="margin-right: 25px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannahstarling&theme=radical&layout=compact"/>
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api?username=hannahstarling&show_icons=true&theme=radical">
-    <img  align="left" height="120" src="https://github-readme-stats.vercel.app/api?username=hannahstarling&show_icons=true&theme=radical" />
-  </a>
-</div>
+
+Current company use gitlab
+
+| <a href="https://github.com/hannahstarling/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hannahstarling&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/hannahstarling/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannahstarling&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
+
