@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm 29y.o. Front-end dev with 2+ year experience
+I'm 30y.o. Front-end dev with 3+ year experience
 
 ## Languages
 
@@ -57,6 +57,7 @@ Croatian, Rissian, English
 ![](https://img.shields.io/badge/abac-informational?style=flat&logo=abac&logoColor=black&color=white)
 ![](https://img.shields.io/badge/axios-informational?style=flat&logo=axios&logoColor=black&color=white)
 ![](https://img.shields.io/badge/Redux-toolkit-informational?style=flat&logo=Redux&logoColor=black&color=white)
+![](https://img.shields.io/badge/RTK-Query-informational?style=flat&logo=Redux&logoColor=black&color=white)
 ![](https://img.shields.io/badge/classnames-informational?style=flat&logo=classnames&logoColor=black&color=white)
 ![](https://img.shields.io/badge/query-string-informational?style=flat&logo=query-string&logoColor=black&color=white)
 ![](https://img.shields.io/badge/redux-saga-routines-informational?style=flat&logo=redux-saga-routines&logoColor=black&color=white)
